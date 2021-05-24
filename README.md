@@ -1,16 +1,18 @@
 
-### Hi, this is Mohamed Alalaiwat 👋
+## Hi, this is Mohamed Alalaiwat 👋
 
-As a software engineer, i enjoy refining/refactoring code untill there is no place for improvement.
+A application developer who spends his free time reading and watching youtube videos about programming.
 
-As a developer, i worked with dotnet for backend and javascript frameworks for frontend projects.
+As a developer, i enjoy refining/refactoring code untill there is no place for improvement. Most of my programming work is within the bounderies of dotnet for backend and javascript frameworks for frontend projects.
 
-### My Plans:
+## Greetings visitor! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning design patterns
+### About my Personal Plans:
+
+- 👀 I’m currently working on something special, with fries and ketchup;
+- 🌱 I’m currently learning design patterns;
 - 💞️ I’m looking to collaborate on any open source project within my knowledge base.
-- 📫 How to reach me Mohamed.Alalaiwat@bac.bh
+- 📫 How to reach me: Mohamed.Alalaiwat@bac.bh;
 
 <!---
 alalaiwat-m/alalaiwat-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
