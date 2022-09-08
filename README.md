@@ -3,15 +3,15 @@
 
 A application developer who spends his free time reading and watching youtube videos about programming.
 
-As a developer, i enjoy refining/refactoring code untill there is no place for improvement. Most of my programming work is within the bounderies of dotnet for backend and javascript frameworks for frontend projects.
+As a developer, i enjoy refactoring code till there is no place for improvement. Mostly I work with dotnet and javascript.
 
 ## Greetings visitor! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ### About my Personal Plans:
 
-- 👀 I’m currently working on something special, with fries and ketchup;
+- 👀 I’m currently working on something special;
 - 🌱 I’m currently learning design patterns;
-- 💞️ I’m looking to collaborate on any open source project within my knowledge base.
+- 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me: Mohamed.Alalaiwat@bac.bh;
 
 ## My GitHub Status:
