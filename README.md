@@ -1,7 +1,7 @@
 
 ## Hi, this is Mohamed Alalaiwat 👋
 
-A application developer who spends his free time reading and watching youtube videos about programming.
+A application developer who spends his free time reading books and watching youtube videos about programming.
 
 As a developer, i enjoy refactoring code till there is no place for improvement. Mostly I work with dotnet and javascript.
 
