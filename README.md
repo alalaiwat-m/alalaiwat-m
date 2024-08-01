@@ -12,7 +12,7 @@ As a developer, i enjoy refactoring code till there is no place for improvement.
 - 👀 I’m currently working on something special;
 - 🌱 I’m currently learning design patterns;
 - 💞️ I’m looking to collaborate on any open source project.
-- 📫 How to reach me: Mohamed.Alalaiwat@bac.bh;
+- 📫 How to reach me: Mohamed.Alalaiwat@gulfairgroup.bh;
 
 ## My GitHub Status:
 
